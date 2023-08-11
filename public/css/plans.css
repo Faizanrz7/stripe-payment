@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.toggle-button {
+  background-color: #1e4c90;
+  width: 260px;
+  height: 80px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  border-radius: 80px;
+}
+
+.inner {
+  width: 120px;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  border-radius: 40px;
+}
+
+/* .active {
+  background-color: #ffffff;
+} */
